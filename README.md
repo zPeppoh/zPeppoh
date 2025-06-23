@@ -1,5 +1,5 @@
 <h1 align="center">Ciao! Sono peppoh 👋</h1>
-<h3 align="center">Java & backend Developer calabrese 🌶️</h3>
+<h3 align="center">Java & backend developer</h3>
 
 <p align="center">
   🚀 Owner di <b>ViperAcademy</b> e <b>ImperiumCity</b> – server Minecraft
@@ -39,6 +39,6 @@
 
 - 💼 Telegram: [@zPeppoh](https://t.me/zPeppoh)  
 - 🌐 Discord: `peppoh`  
-- 📍 From southside 🌶️  
+- 📍 From Italy southside 🌶️  
 
 ---
