@@ -1,7 +1,7 @@
 <h1 align="center">Ciao! Sono peppoh 👋</h1>
+<h3 align="center">Java & backend Developer calabrese 🌶️</h3>
 
 <p align="center">
-  👨‍💻 Java & backend Developer calabrese 🌶️  
   🚀 Owner di <b>ViperAcademy</b> e <b>ImperiumCity</b> – server Minecraft
 </p>
 
@@ -13,9 +13,9 @@
 
 ### 🛠️ Tech Stack
 
-- 💻 **Linguaggi principali**: Java, C++, HTML/CSS, JavaScript, Python
-- ⚙️ **Strumenti e tecnologie**: Spigot, Spring Boot, Git, MySQL, MariaDB, Docker
-- 🎮 **Ambiti di lavoro**: Plugin Minecraft, Web API, Backend Services
+- 💻 **Linguaggi principali**: Java, C++, HTML/CSS, JavaScript, Python  
+- ⚙️ **Strumenti e tecnologie**: Spigot, Spring Boot, Git, MySQL, MariaDB, Docker  
+- 🎮 **Ambiti di lavoro**: Plugin Minecraft, Web API, Backend Services  
 
 ---
 
@@ -34,16 +34,16 @@
 
 ### 🧠 Cosa sto facendo ora
 
-- 🏛️ Sviluppo e Gestione tecnica di **ImperiumCity**, server Minecraft in continua evoluzione
-- 📈 Studio presso un istituto tecnico industriale
+- 🏛️ Sviluppo e gestione tecnica di **ImperiumCity**, server Minecraft in continua evoluzione  
+- 📈 Studio presso un istituto tecnico industriale  
 
 ---
 
 ### 📫 Contatti
 
-- 💼 Telegram: [@zPeppoh](https://t.me/zPeppoh)
-- 🌐 Discord: `peppoh`
-- 📍 from southside 🌶️
+- 💼 Telegram: [@zPeppoh](https://t.me/zPeppoh)  
+- 🌐 Discord: `peppoh`  
+- 📍 From southside 🌶️  
 
 ---
 
