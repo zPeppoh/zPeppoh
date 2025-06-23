@@ -5,10 +5,6 @@
   🚀 Owner di <b>ViperAcademy</b> e <b>ImperiumCity</b> – server Minecraft
 </p>
 
-<p align="center">
-  <img src="https://em-content.zobj.net/thumbs/240/apple/354/hot-pepper_1f336-fe0f.png" height="32"/>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
@@ -46,9 +42,3 @@
 - 📍 From southside 🌶️  
 
 ---
-
-<p align="center">
-  <img src="https://em-content.zobj.net/thumbs/240/apple/354/laptop_1f4bb.png" height="30"/>
-  <img src="https://em-content.zobj.net/thumbs/240/apple/354/fire_1f525.png" height="30"/>
-  <img src="https://em-content.zobj.net/thumbs/240/apple/354/minecraft_1f3ae.png" height="30"/>
-</p>
