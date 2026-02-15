@@ -1,44 +1,45 @@
-<h1 align="center">Ciao! Sono peppoh 👋</h1>
-<h3 align="center">Java & backend developer</h3>
+<div align="center">
 
-<p align="center">
-  🚀 Owner di <b>ViperAcademy</b> e <b>ImperiumCity</b> – server Minecraft
-</p>
+# Ciao, sono peppoh 👋
 
----
+Principalmente Minecraft Java Dev con esperienze full-stack 
+Studente di Informatica
 
-### 🛠️ Tech Stack
-
-- 💻 **Linguaggi principali**: Java, C++, HTML/CSS, JavaScript, Python  
-- ⚙️ **Strumenti e tecnologie**: Spigot, Spring Boot, Git, MySQL, MariaDB, Docker  
-- 🎮 **Ambiti di lavoro**: Plugin Minecraft, Web API, Backend Services  
+</div>
 
 ---
 
-### 📊 Le mie statistiche GitHub
+## Focus
+- Plugin Minecraft (Paper / Purpur / Spigot)
+- Backend e integrazioni (MySQL / MariaDB)
+- Web essentials (HTML, CSS)
+- Scripting e tooling (Python, Lua, PHP)
+- Performance e low-level (C++)
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zPeppoh&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPeppoh&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" />
-</p>
+## Stack
+<div align="left">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zPeppoh&theme=tokyonight&hide_border=true" />
-</p>
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-111111?style=for-the-badge&logo=minecraft&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-111111?style=for-the-badge&logo=mariadb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-111111?style=for-the-badge&logo=lua&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-111111?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
----
+</div>
 
-### 🧠 Cosa sto facendo ora
+## Progetti
+- Imperium (RDM) – founder & sviluppatore principale
+  https://github.com/Imperium-RDM/Imperium
+- ViperAcademySRP – progetto ormai chiuso, founder & sviluppatore
+  https://github.com/ViperAcademy/ViperAcademySRP
 
-- 🏛️ Sviluppo e gestione tecnica di **ImperiumCity**, server Minecraft in continua evoluzione  
-- 📈 Studio presso un istituto tecnico industriale  
-
----
-
-### 📫 Contatti
-
-- 💼 Telegram: [@zPeppoh](https://t.me/zPeppoh)  
-- 🌐 Discord: `peppoh`  
-- 📍 From Italy southside 🌶️  
-
----
+## Contatti
+- GitHub: https://github.com/zPeppoh
+- Email: zpeppoh@gmail.com
+- Discord: peppoh
